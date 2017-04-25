@@ -1,0 +1,1 @@
+/tmp/hadoop-neshant/mapred/local/1493045497281/AFINN-111.txt
